@@ -1,7 +1,7 @@
 <h1 align="center">Real-time Aviation Simulator with Sensor Data Processing and Reporting</h1>
 
 <p align="center">
-  <img src="https://ibb.co/G364JcR" alt="Project Banner">
+  <a href="https://ibb.co/G364JcR"><img src="https://i.ibb.co/zHMT5GZ/Capture-d-cran-2023-06-16-121051.png" alt="Capture-d-cran-2023-06-16-121051" border="0" /></a>
 </p>
 
 <p align="center">🚀 Explore the skies with our advanced aviation simulator!</p>
