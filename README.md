@@ -16,7 +16,7 @@
 </p>
 
 ## Overview
-The Real-time Aviation Simulator with Sensor Data Processing and Reporting is an immersive project developed by a team of engineers. This project offers a realistic flying experience by incorporating advanced features and cutting-edge technologies.
+The Real-time Aviation Simulator with Sensor Data Processing and Reporting is an immersive project. This project offers a realistic flying experience by incorporating advanced features and cutting-edge technologies.
 
 ## Features
 - **Real-time Cockpit/ATC Communication**: Interact with air traffic controllers in real-time, enhancing the authenticity of the simulation.
@@ -41,7 +41,7 @@ We extend our heartfelt gratitude to our mentor, Professor Fouad Kharroubi, for 
 ## Contact
 For further details and inquiries about the project, please feel free to reach out to us:
 
-- Ahmed Laaziz (mailto:laazizahmed72@gmail.com) - [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ahmed-laaziz-4b2168218/))
+- Ahmed Laaziz (mailto:laazizahmed72@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ahmed-laaziz-4b2168218/)
 
 
 ---
