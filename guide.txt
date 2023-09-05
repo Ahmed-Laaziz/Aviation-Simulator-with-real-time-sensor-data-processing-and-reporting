@@ -365,7 +365,3 @@ stream.foreachRDD { rdd =>
 // Start the streaming context
 ssc.start()
 ssc.awaitTermination()
-
-
-Blue : #0f607e
-Yellow : #bdca12
