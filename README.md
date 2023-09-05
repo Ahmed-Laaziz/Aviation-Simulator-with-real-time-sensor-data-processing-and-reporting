@@ -16,7 +16,7 @@
   <a href="#contact">Contact</a>
 </p>
 
-##Demo
+## Demo
  <a href="https://www.youtube.com/watch?v=jWb1fE3pUSg">video demonstration</a>
 
 ## Overview
